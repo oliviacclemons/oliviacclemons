@@ -25,5 +25,5 @@
 
 ##  Connect With Me
 
-[![Portfolio Website](https://img.shields.io/badge/Website-Personal_Portfolio-blue?style=for-the-badge&logo=googlechrome)](https://oliviacclemons.github.io/projects.html)
+[![Portfolio Website](https://img.shields.io/badge/Website-Personal_Portfolio-blue?style=for-the-badge&logo=googlechrome)](https://oliviacclemons.github.io/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olivia-clemons-6195b6296)
