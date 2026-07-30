@@ -17,9 +17,9 @@
 
 ##  Featured Projects
 
-*  **[Arduino Voice-Controlled Vehicle](https://github.com/your-username/voice-car-repo)** — Mechatronics project featuring custom voice-recognition logic, motor drive control, and hardware integration.
-*  **[SolidWorks Snow Blower Design](https://oliviacclemons.github.io/projects.html)** — Parametric 3D CAD modeling, multi-part assembly, and exploded view documentation.
-*  **[Revit MEP Building Model](https://oliviacclemons.github.io/projects.html)** — Professional BIM modeling, trade coordination, and as-built documentation workflows.
+*  **[Arduino Voice-Controlled Vehicle](https://oliviacclemons.github.io/arduino-car.html)** — Mechatronics project featuring custom voice-recognition logic, motor drive control, and hardware integration.
+*  **[SolidWorks Snow Blower Design](https://oliviacclemons.github.io/snowblower.html)** — Parametric 3D CAD modeling, multi-part assembly, and exploded view documentation.
+*  **[Revit MEP Building Model](https://oliviacclemons.github.io/mep-revit.html)** — Professional BIM modeling, trade coordination, and as-built documentation workflows.
 
 ---
 
