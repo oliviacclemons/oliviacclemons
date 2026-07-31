@@ -8,17 +8,14 @@
 ## Technical Skills
 
 
-> [!NOTE]
-> ### **Mechanical Design & CAD**
-> SolidWorks • Autodesk Revit • AutoCAD
 
-> [!TIP]
-> ### **Programming & Numerical Analysis**
-> Python • MATLAB
+> ### **Mechanical Design & CAD** | SolidWorks • Autodesk Revit • AutoCAD
 
-> [!IMPORTANT]
-> ### **Manufacturing & Prototyping**
-> Machine Shop Fabrication • 3D Printing • Sensor Integration|
+
+> ### **Programming & Numerical Analysis | Python • MATLAB
+
+
+> ### **Manufacturing & Prototyping | Machine Shop Fabrication • 3D Printing • Sensor Integration**
 
 ---
 
