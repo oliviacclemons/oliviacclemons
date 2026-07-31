@@ -9,13 +9,12 @@
 
 
 
-> ### **Mechanical Design & CAD** | SolidWorks • Autodesk Revit • AutoCAD
-
-
-> ### **Programming & Numerical Analysis | Python • MATLAB
-
-
-> ### **Manufacturing & Prototyping | Machine Shop Fabrication • 3D Printing • Sensor Integration**
+> ### **Mechanical Design & CAD**
+> SolidWorks • Autodesk Revit • AutoCAD
+> ### **Programming**
+> Python • MATLAB
+> ### **Manufacturing & Prototyping**
+> Machine Shop Fabrication • 3D Printing • Sensor Integration
 
 ---
 
